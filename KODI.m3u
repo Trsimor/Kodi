@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Eurosport1.rs",Eurosport 1 (RS)
-http://184585.ipturk.eu:80/aslanyusuf86574/aslany9875626/357317
-#EXTINF:-1 tvg-id="Eurosport2.rs",Eurosport 2 (RS)
-http://184585.ipturk.eu:80/aslanyusuf86574/aslany9875626/357318
 #EXTINF:-1 tvg-id="SkySportsF1.uk",Sky Sports F1 (UK)
 http://184585.ipturk.eu:80/aslanyusuf86574/aslany9875626/358849
 #EXTINF:-1 tvg-id="SkySportF1.de",Sky Sport F1 (DE)
 http://184585.ipturk.eu:80/aslanyusuf86574/aslany9875626/230401
 #EXTINF:-1 tvg-id="SkySportsMix.uk",Sky Sports Mix (UK)
 http://184585.ipturk.eu:80/aslanyusuf86574/aslany9875626/358846
-#EXTINF:-1 tvg-id="ArenaAdrenalin.rs",Arena Adrenalin (RS)
-http://cistakosuza.petica.info/live/Ivan996/6kV5NQ/86307.m3u
-#EXTINF:-1 tvg-id="KanalA.si",Kanal A (SI)
-http://cistakosuza.petica.info/live/Ivan996/6kV5NQ/2627.m3u
