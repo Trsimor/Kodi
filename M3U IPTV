@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Eurosport1.rs",EUROSPORT 1
+http://184585.ipturk.eu:80/live/aslanyusuf86574/aslany9875626/357317.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.rs",EUROSPORT 2
+http://184585.ipturk.eu:80/live/aslanyusuf86574/aslany9875626/357318.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1.uk",SKY SPORTS F1
 http://1xtr.icu:8080/AYPNk4/778524/35244
 #EXTINF:-1 tvg-id="SkySportF1.de",SKY SPORT F1
