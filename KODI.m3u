@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SkySport1.nz",Sky Sport 1
+http://primestreams.tv:826/anto.j/c9yJDcXyPe/118585
+#EXTINF:-1 tvg-id="SkySport2.nz",Sky Sport 2
+http://primestreams.tv:826/anto.j/c9yJDcXyPe/118586
+#EXTINF:-1 tvg-id="SkySport3.nz",Sky Sport 3
+http://primestreams.tv:826/anto.j/c9yJDcXyPe/118587
+#EXTINF:-1 tvg-id="SkySport4.nz",Sky Sport 4
+http://primestreams.tv:826/anto.j/c9yJDcXyPe/118588
+#EXTINF:-1 tvg-id="SkySport5.nz",Sky Sport 5
+http://primestreams.tv:826/anto.j/c9yJDcXyPe/118589
+#EXTINF:-1 tvg-id="SkySport6.nz",Sky Sport 6
+http://primestreams.tv:826/anto.j/c9yJDcXyPe/118590
+#EXTINF:-1 tvg-id="SkySport7.nz",Sky Sport 7
+http://primestreams.tv:826/anto.j/c9yJDcXyPe/118591
+#EXTINF:-1 tvg-id="SkySport8.nz",Sky Sport 8
+http://primestreams.tv:826/anto.j/c9yJDcXyPe/118592
+#EXTINF:-1 tvg-id="SkySport9.nz",Sky Sport 9
+http://primestreams.tv:826/anto.j/c9yJDcXyPe/118593
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-chno="1",Sky Sports F1
 http://primestreams.tv:826/anto.j/c9yJDcXyPe/98783
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-chno="2",Sky Sports F1
@@ -11,5 +29,3 @@ http://1xtr.icu:8080/AYPNk4/778524/35244
 http://1xtr.icu:8080/AYPNk4/778524/53704
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-chno="6",Sky Sports F1
 http://1xtr.icu:8080/AYPNk4/778524/317107
-#EXTINF:-1,F1 film
-http://cistakosuza.petica.info/movie/Ivan996/6kV5NQ/85184.m3u
