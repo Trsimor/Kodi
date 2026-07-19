@@ -6,4 +6,8 @@ http://1xtr.icu:8080/AYPNk4/778524/53704
 #EXTINF:-1 tvg-id="SkySportsF1.uk",Sky Sports F1
 http://1xtr.icu:8080/AYPNk4/778524/317107
 #EXTINF:-1 tvg-id="FoxSports1.us",FS1
-http://1xtr.icu:8080/AYPNk4/778524/46792
+http://1xtr.icu:8080/AYPNk4/778524/1846
+#EXTINF:-1 tvg-id="FoxSports2.us",FS2
+http://1xtr.icu:8080/AYPNk4/778524/1847
+#EXTINF:-1,FOX
+http://1xtr.icu:8080/AYPNk4/778524/120750
