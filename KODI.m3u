@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-gb.xml"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-gb.xml.gz"
 #EXTINF:-1 tvg-id="SkySportsF1.uk",Sky Sports F1
 http://1xtr.icu:8080/AYPNk4/778524/35244
 #EXTINF:-1 tvg-id="SkySportsF1.uk",Sky Sports F1
